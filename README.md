@@ -1,0 +1,1 @@
+Modifications made to mods obtained from gta5-mods.com to ensure it works with the latest version of the game and with other mods (solving modkit, lightkitId, audioNameHash, and other conflicts in the mods)
