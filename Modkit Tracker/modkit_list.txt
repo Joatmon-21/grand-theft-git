@@ -1,2 +1,3 @@
 Modkit ID List:
 Euros (ZR 300): 2798
+nalamo: 0
